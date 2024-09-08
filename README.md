@@ -1,2 +1,1 @@
-# Small-AI-Projects
-Small projects in different branch of AI
+# Small-Projects-in-Filed-of-AI
